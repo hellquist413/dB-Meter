@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dB Meter</string>
+    <string name="reset">Reset</string>
+    <string name="request_microphone_permission">Request Microphone Permission</string>
+    <string name="testDb">0 dB</string>
+    <string name="average">AVERAGE</string>
+    <string name="min">MIN</string>
+    <string name="max">MAX</string>
+</resources>
